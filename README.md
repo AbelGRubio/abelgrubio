@@ -1,10 +1,10 @@
-# Hi, I'm Abel Rubio
 
- **Senior Python Developer | Microservices Architect | Fullstack & Flutter Engineer**
+
+🎯 **Senior Python Developer | Microservices Architect | Fullstack & Flutter Engineer**
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I'm a **Senior Software Engineer** with a strong background in **Python**, **distributed systems**, and **code optimization**.  
 With a foundation in **Physics** and a **Master’s degree in Mathematics**, I bring an analytical and performance-driven approach to every project.  
@@ -14,7 +14,7 @@ I’m passionate about **clean code**, **automation**, and **DevOps culture** �
 
 ---
 
-## Technical Expertise
+## 🧠 Technical Expertise
 
 - **Backend:** Python (FastAPI, Django, Flask), REST APIs, AsyncIO  
 - **Frontend:** Angular, TypeScript, React, HTML5, CSS3  
@@ -26,7 +26,7 @@ I’m passionate about **clean code**, **automation**, and **DevOps culture** �
 
 ---
 
-## What I Do Best
+## 🏗️ What I Do Best
 
 ✅ Design **highly scalable distributed architectures**  
 ✅ Build **optimized Python services** with low latency and high reliability  
@@ -36,12 +36,12 @@ I’m passionate about **clean code**, **automation**, and **DevOps culture** �
 
 ---
 
-## My Values
+## 📈 My Values
 
-- Clean, efficient, and maintainable code  
-- Automation over repetition  
-- Data-driven decision making  
-- Collaboration and knowledge sharing  
+💡 Clean, efficient, and maintainable code  
+⚙️ Automation over repetition  
+📊 Data-driven decision making  
+🤝 Collaboration and knowledge sharing  
 
 ---
 
@@ -52,4 +52,4 @@ I’m passionate about **clean code**, **automation**, and **DevOps culture** �
 
 ---
 
- *If you’re looking for someone who combines deep technical expertise with mathematical precision and product vision — let’s build something great together.*
+⭐ *If you’re looking for someone who combines deep technical expertise with mathematical precision and product vision — let’s build something great together.*
