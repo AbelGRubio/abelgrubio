@@ -16,13 +16,17 @@ I’m passionate about **clean code**, **automation**, and **DevOps culture** �
 
 ## 🧠 Technical Expertise
 
-- **Backend:** Python (FastAPI, Django, Flask), REST APIs, AsyncIO  
-- **Frontend:** Angular, TypeScript, React, HTML5, CSS3  
-- **Mobile:** Flutter, Dart  
-- **Architecture:** Microservices, Event-driven systems, Distributed computing  
-- **Data & Performance:** Optimization, Caching, Profiling, Parallel processing  
-- **DevOps:** Docker, Kubernetes, CI/CD, AWS, GitHub Actions, Terraform  
-- **Testing & Quality:** Unitest, Unit Testing, Code Review, Continuous Integration  
+- **Backend**: Python (FastAPI, Django, Flask), Rust, REST APIs, AsyncIO, distributed services
+- **Frontend**: Angular, TypeScript, React, HTML5, CSS3
+- **Mobile**: Flutter, Dart
+- **Architecture**: Microservices, Event-driven systems, distributed systems design, platform engineering
+- **Cloud** & Infrastructure: AWS (EC2, S3, CloudWatch), Docker, Kubernetes, Terraform
+- **Observability**: Prometheus, OpenTelemetry, AWS CloudWatch, metrics, logging and distributed tracing
+- **DevOps**: CI/CD pipelines, GitHub Actions, GitLab CI, containerized deployments
+- **AI &** Developer Platforms: AI agents, MCP-based project scaffolding, developer tooling for AI services
+- **Security**: OAuth2, OIDC, Keycloak, authentication and authorization for distributed systems
+- **Data** & Performance: Optimization, caching, profiling, parallel processing
+- **Testing** & Quality: Unit testing, code reviews, CI pipelines, automated testing
 
 ---
 
