@@ -1,6 +1,6 @@
 
 
-# 🎯 **Senior Python Developer | Microservices Architect | Fullstack & Flutter Engineer**
+# 🎯 **Senior DevSecOps Python engineer | Microservices Architect | Fullstack & Flutter Engineer**
 
 ---
 
