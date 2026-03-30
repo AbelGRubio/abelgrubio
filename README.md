@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with a strong background in **Python**, **distributed systems**, and **code optimization**.  
+I'm a **Senior DevSecOps Python engineer** with a strong background in **Python**, **distributed systems**, and **code optimization**.  
 With a foundation in **Physics** and a **Master’s degree in Mathematics**, I bring an analytical and performance-driven approach to every project.  
 
 I’ve designed and built **scalable, high-performance applications** — from backend microservices to full-fledged **cross-platform apps** using **Flutter**.  
