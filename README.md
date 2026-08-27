@@ -23,10 +23,10 @@ Iâ€™m passionate about **clean code**, **automation**, and **DevOps culture** â€
 - **Cloud** & Infrastructure: AWS (EC2, S3, CloudWatch), Docker, Kubernetes, Terraform
 - **Observability**: Prometheus, OpenTelemetry, AWS CloudWatch, metrics, logging and distributed tracing.  *(see the [repository](https://github.com/AbelGRubio/observability) for more details)*
 - **DevOps**: CI/CD pipelines, GitHub Actions, GitLab CI, containerized deployments
-- **AI &** Developer Platforms: AI agents, MCP-based project scaffolding, developer tooling for AI services
+- **AI & Developer Platforms**: AI agents, MCP-based project scaffolding *(see the [repository](https://github.com/AbelGRubio/mcp-server-scaffold) , developer tooling for AI services
 - **Security**: OAuth2, OIDC, Keycloak, authentication and authorization for distributed systems
 - **Data** & Performance: Optimization, caching, profiling, parallel processing
-- **Testing** & Quality: Unit testing, code reviews, CI pipelines, automated testing
+- **Testing & Quality**: Unit testing, code reviews, CI pipelines, automated testing
 
 ---
 
