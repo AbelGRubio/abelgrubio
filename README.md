@@ -19,7 +19,7 @@ Iâ€™m passionate about **clean code**, **automation**, and **DevOps culture** â€
 - **Backend**: Python (FastAPI, Django, Flask), Rust, REST APIs, AsyncIO, distributed services
 - **Frontend**: Angular, TypeScript, React, HTML5, CSS3
 - **Mobile**: Flutter, Dart
-- **Architecture**: Microservices, Event-driven systems  *(see the [repository](https://github.com/AbelGRubio/event_driven_architecture) for more details)*, distributed systems design, platform engineering
+- **Architecture**: Microservices, Event-driven systems  *(see the [repository](https://github.com/AbelGRubio/event_driven_architecture) for more details)*, distributed systems design, platform engineering, Hexagonal architecture  *(see the [repository](https://github.com/AbelGRubio/event_driven_architecture) for more details)*,
 - **Cloud** & Infrastructure: AWS (EC2, S3, CloudWatch), Docker, Kubernetes, Terraform
 - **Observability**: Prometheus, OpenTelemetry, AWS CloudWatch, metrics, logging and distributed tracing.  *(see the [repository](https://github.com/AbelGRubio/observability) for more details)*
 - **DevOps**: CI/CD pipelines, GitHub Actions, GitLab CI, containerized deployments
